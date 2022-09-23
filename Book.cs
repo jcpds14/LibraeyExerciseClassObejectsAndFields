@@ -8,7 +8,7 @@ namespace Library
 {
     internal class Book
     {
-        string title;
-        int edition;
+        public string title;
+        public int edition;
     }
 }
